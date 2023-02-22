@@ -110,3 +110,12 @@ For example:
 It may seem trivial, but asking your question before getting that initial salutatory reply also allows for asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
 When done right - everyone's happy! 🎉
+
+ref :
+- https://stackoverflow.com/help/how-to-ask
+- https://dontasktoask.com/
+- https://nohello.net/
+- http://catb.org/~esr/faqs/smart-questions.html
+- https://xyproblem.info/
+- https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem
+- http://mywiki.wooledge.org/XyProblem
