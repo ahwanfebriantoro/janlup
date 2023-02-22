@@ -1,4 +1,4 @@
-#Don't ask to ask, just ask
+# Don't ask to ask, just ask
 
 Every now and then, in online chat rooms I hang around in, someone pops in and says something in the lines of,
 
@@ -28,7 +28,7 @@ The solution is not to ask to ask, but just to ask. Someone who is idling on the
 
 So, to summarize, don't ask "Any Java experts around?", but rather ask "How do I do [problem] with Java and [other relevant info]?" 
 
-#The XY Problem
+# The XY Problem
 What is it?
 
 The XY problem is asking about your attempted solution rather than your actual problem. This leads to enormous amounts of wasted time and energy, both on the part of people asking for help, and on the part of those providing help.
